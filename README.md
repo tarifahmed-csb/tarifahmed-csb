@@ -1,154 +1,200 @@
-<!-- 1. HEADER & ANIMATED TYPING -->
+<!-- Animated Header with Typing Effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tarif+Ahmed!;" />
+</h1>
 
+<!-- Animated Divider -->
 <div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DInter%26weight%3D700%26size%3D30%26duration%3D4000%26pause%3D500%26color%3D0077B5%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DHi%2Bthere!%2BI%27m%2BTarif%2BAhmed%3BData%2BScientist%3BSoftware%2BEngineer%3BAI%252FML%2BEnthusiast%3BCS%2B%2526%2BBusiness%2BStudent" alt="Animated typing text" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-<!-- 2. ABOUT ME & SOCIALS -->
+<!-- Animated Introduction Section -->
+<h3 align="center" style="color: #0DCAF0;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  A passionate Data Scientist and Software Developer from Lehigh University
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
+<br/>
+
+<!-- About Me Section with Icons -->
 <div align="center">
-<p>
-Analytical M.S. in Data Science candidate at Lehigh University with a B.S. in Computer Science & Business.
-<br />
-My passion lies at the intersection of data, software, and finance.
-</p>
+ 
+ 🔭 I’m currently working on my **Analytical M.S. in Data Science** at **Lehigh University**<br/>
+ 🌱 I’m currently deepening my knowledge in **AI/Machine Learning, Distributed Systems, and Quantitative Finance**<br/>
+ 👯 I’m looking to collaborate on **Open-Source Data Science projects and innovative HPC applications**<br/>
+ 🤔 I’m looking for help with **advanced MLOps and Large-Scale Data Pipeline optimization**<br/>
+ 💬 Ask me about **Python, Java, SQL, Machine Learning, or Financial Analysis**<br/>
+ 📫 How to reach me: **tarifahmed.csb@gmail.com**<br/>
+ ⚡ Fun fact: **I'm fluent in three languages and have run an import/export clothing brand!**
 
-<p>
-<!-- LinkedIn Badge -->
-<a href="https://www.linkedin.com/in/tarifahmed" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Profile"/>
-</a>
-<!-- Email Badge -->
-<a href="mailto:tarifahmed.csb@gmail.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Me"/>
-</a>
-</p>
 </div>
 
-<!-- 3. ANIMATED SKILL ICONS -->
+<br/>
 
-<h2 align="center">💻 My Tech Stack & Tools</h2>
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skill-icons.dev/icons%3Fi%3Dpython,java,cpp,go,r,sql,html,css%26perline%3D8" alt="Programming Languages" />
-<br />
-<img src="https://www.google.com/search?q=https://skill-icons.dev/icons%3Fi%3Dtensorflow,sklearn,pandas,opencv,flask,nodejs,react,spring%26perline%3D8" alt="Frameworks & Libraries" />
-<br />
-<img src="https://www.google.com/search?q=https://skill-icons.dev/icons%3Fi%3Dpostgres,mysql,mongodb,neo4j%26perline%3D4" alt="Databases" />
-<br />
-<img src="https://www.google.com/search?q=https://skill-icons.dev/icons%3Fi%3Dgit,docker,aws,c%26perline%3D4" alt="DevOps & Tools" />
-<!-- Note: I added pandas, sklearn, react, spring, neo4j, c based on your resume projects/coursework -->
-</a>
-</p>
-
-<!-- 4. GITHUB STATS (DYNAMIC) -->
-
-<h2 align="center">📊 My GitHub Stats</h2>
+<!-- Animated Divider -->
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtarifahmed-csb%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Tarif's GitHub Stats" />
-&nbsp;
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dtarifahmed-csb%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue" alt="Top Languages" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-<!-- 5. INTERACTIVE PROJECT DROPDOWNS -->
+<!-- Projects Section with Animated Cards -->
+<h2 align="center">🚀 My Projects</h2>
 
-<h2 align="center">🚀 My Featured Projects</h2>
+<br/>
 
-<details>
-<summary>
-<strong>🧪 Drug Safety (ADE) Prediction Model</strong>
-</summary>
-<br />
-<p>
-Developed a classification model to predict serious adverse drug events (ADEs) using a 4M+ row, 7-table dataset from the FDA (FAERS).
-<ul>
-<li>Engineered a data pipeline in Pandas to clean and pre-process data.</li>
-<li>Trained and tuned Scikit-learn models (Logistic Regression, Random Forest, Gradient Boosting).</li>
-<li>Achieved <strong>0.82 AUC</strong> and <strong>75% recall</strong> on serious events, creating a tool to help prioritize safety team investigations.</li>
-</ul>
-<p>
-<strong>Tech Stack:</strong> Python, Pandas, Scikit-learn
-</p>
-<a href="[YOUR_REPO_LINK_HERE]" target="_blank"><strong>[View Repository]</strong></a>
-</p>
-</details>
+<div align="center">
 
-<details>
-<summary>
-<strong>💸 Quantum Computing Stock Performance Analyzer</strong>
-</summary>
-<br />
-<p>
-Conducted a comprehensive risk/return analysis of pure-play quantum stocks (IONQ, RGTI) and the QTUM sector ETF.
-<ul>
-<li>Modeled performance using Python, calculating annualized return (175% for RGTI), volatility, and Sharpe Ratio.</li>
-<li>Delivered the key insight that the diversified QTUM ETF (Sharpe: 1.250) provided the superior risk-adjusted return.</li>
-</ul>
-<p>
-<strong>Tech Stack:</strong> Python, Pandas, yfinance
-</p>
-<a href="[YOUR_REPO_LINK_HERE]" target="_blank"><strong>[View Repository]</strong></a>
-</p>
-</details>
+<!-- Project 1 -->
+<a href="https://github.com/tarifahmed-csb/drug-safety-prediction" style="text-decoration: none;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tarifahmed-csb&repo=drug-safety-prediction&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" height="150" />
+</a>
 
-<details>
-<summary>
-<strong>🚗 Automatic Number Plate Recognizer (ANPR) System</strong>
-</summary>
-<br />
-<p>
-Developed a Python-based ANPR system using OpenCV and a TensorFlow/Keras (CNN) model.
-<ul>
-<li>Achieved <strong>92% accuracy</strong> on a test dataset of 1,000 license plate images.</li>
-<li>Engineered a RESTful API using Flask to serve the ML model, processing images in under 300ms.</li>
-<li>Connected to a PostgreSQL database to log entries and flag violations, simulating a real-world parking system.</li>
-</ul>
-<p>
-<strong>Tech Stack:</strong> Python, TensorFlow, Keras, OpenCV, Flask, PostgreSQL
-</p>
-<a href="[YOUR_REPO_LINK_HERE]" target="_blank"><strong>[View Repository]</strong></a>
-</p>
-</details>
+<!-- Project 2 -->
+<a href="https://github.com/tarifahmed-csb/quantum-stock-analyzer" style="text-decoration: none;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tarifahmed-csb&repo=quantum-stock-analyzer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" height="150" />
+</a>
 
-<!-- 6. INTERACTIVE EXPERIENCE DROPDOWNS -->
+<!-- Project 3 -->
+<a href="https://github.com/tarifahmed-csb/anpr-system" style="text-decoration: none;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tarifahmed-csb&repo=anpr-system&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" height="150" />
+</a>
 
-<h2 align="center">📈 Professional Experience</h2>
+<!-- Project 4 -->
+<a href="https://github.com/tarifahmed-csb/hpc-optimization" style="text-decoration: none;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tarifahmed-csb&repo=hpc-optimization&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" height="150" />
+</a>
 
-<details>
-<summary>
-<strong>HPC Optimization Intern | National Competence Centre for HPC</strong> (Jun 2025 - Aug 2025)
-</summary>
-<br />
-<ul>
-<li>Authored a 10-page report for directors recommending HPC adoption to reduce data processing times by 20-30%.</li>
-<li>Developed and benchmarked parallel processing scripts (C++) demonstrating a <strong>4x performance increase</strong> on multi-core testbeds.</li>
-</ul>
-</details>
+</div>
 
-<details>
-<summary>
-<strong>Process Hierarchy Modeling Intern | Merck</strong> (Jan 2025 - Dec 2024... wait, this date is Jan-Dec 2024, right? Resume says 2025-2024)
-</summary>
-<br />
-<ul>
-<li>Designed a Java-based caching layer (custom hash map), reducing data retrieval latency by <strong>40%</strong> (250ms to 150ms).</li>
-<li>Developed a Spring Boot microservice (RESTful API) integrating with PostgreSQL, Neo4j (Graph), and MongoDB (NoSQL).</li>
-<li>Refactored legacy PostgreSQL schemas to 3NF, eliminating <strong>15GB</strong> of redundant data.</li>
-</ul>
-<!--
-[Self-correction from resume: The date Jan 2025 - Dec 2024 looks like a typo, I'll assume you mean Jan 2024 - Dec 2024.
-I've put ... in the title, you can fix this when you copy it over!]
--->
-</details>
+<br/>
+<br/>
 
-<details>
-<summary>
-<strong>Marketing Data Analyst | Organic Growth Zone</strong> (Jan 2025 - May 2025)
-</summary>
-<br />
-<ul>
-<li>Analyzed a 500k-row dataset using Python to develop a new marketing strategy.</li>
-<li>Engineered an <strong>RFM (Recency, Frequency, Monetary)</strong> model to score and segment the entire customer base.</li>
-<li>Delivered recommendations to cut costs (purge "Lost" customers) and boost retention (target "At-Risk" segment).</li>
-</ul>
-</details>
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+<!-- Tech Stack Section with Animated Icons -->
+<h2 align="center">🛠️ My Tech Stack</h2>
+
+<br/>
+
+<div align="center">
+
+<!-- Programming Languages -->
+<h3>💻 Programming Languages</h3>
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</div>
+
+<br/>
+
+<!-- Frameworks & Libraries -->
+<h3>📚 Frameworks & Libraries</h3>
+<div>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</div>
+
+<br/>
+
+<!-- Databases & Cloud -->
+<h3>🗄️ Databases & Cloud</h3>
+<div>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+<!-- GitHub Stats Section with Animated Graphs -->
+<h2 align="center">📊 GitHub Stats & Activity</h2>
+
+<br/>
+
+<div align="center">
+
+<!-- Main Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=tarifahmed-csb&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarifahmed-csb&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  />
+
+</div>
+
+<br/>
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarifahmed-csb&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB" width="450"/>
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+<!-- Connect With Me Section -->
+<h2 align="center">🤝 Connect With Me</h2>
+
+<br/>
+
+<div align="center">
+
+<!-- LinkedIn -->
+<a href="www.linkedin.com/in/tarifahmed" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<!-- Email -->
+<a href="mailto:tarifahmed.csb@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<!-- Portfolio (You can add this later) -->
+<!-- <a href="https://your-portfolio.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
+</a> -->
+
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+  
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Always open to exciting collaborations and conversations!</b></em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  
+</div>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+<!-- Snake Game Contribution Grid - Animated! -->
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+</div>
