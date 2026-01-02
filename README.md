@@ -15,7 +15,7 @@
         🚀 M.S. Data Science @ Lehigh University<br>
         ⚡ Specializing in ML, HPC, and Quant Finance<br>
         📍 Based in New York, USA<br>
-        <a href="www.linkedin.com/in/tarifahmed"><b>Linktree / LinkedIn</b></a>
+        <a href="https://www.linkedin.com/in/tarifahmed"><b>Linktree / LinkedIn</b></a>
       </td>
     </tr>
   </table>
@@ -55,9 +55,9 @@
       </td>
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50" /><br>
-        <b>ANPR System</b><br>
+        <b>GateGuard</b><br>
         <i>OpenCV & Keras based vehicle plate recognition.</i><br>
-        <a href="#">View Post</a>
+        <a href="https://github.com/tarifahmed-csb/GateGuard">View Repo</a>
       </td>
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C-Dark.svg" width="50" /><br>
@@ -74,9 +74,9 @@
 ## 📬 Direct Message (Connect)
 
 <p align="center">
-  <a href="mailto:tarifahmed.csb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/tarifahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/tarifahmed-csb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:tarifahmed.csb@gmail.com"><img src="https://img.shields.io/badge/Email-tarifahmed.csb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tarifahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Personal_Website-Click_Here-34a853?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <p align="center">
